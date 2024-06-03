@@ -80,7 +80,7 @@ or browse the materials via [Github Pages](https://demon-network.github.io/markd
 
 You will find links to all of the material you need in the left hand menu of the Github Pages or in the folders in this repository. R users should use the material under R and likewise python users should use the material under python.
 
-Under General you will find a markdown cheat sheet which might come in handy.
+Under General on Github Pages you will find a markdown cheat sheet which might come in handy.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
