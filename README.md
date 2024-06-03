@@ -44,7 +44,7 @@
 
 ### Quick Description
 
-The goal for this workshop was to teach researchers how to report their research reproducicbly using Markdown.
+The goal for this workshop was to teach researchers how to report their research reproducibly using Markdown.
 
 ### Background/motivation
 
