@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="demon_logos/Original-on-Transparent.png" alt="Logo" width="300" height="100">
+    <img src="demon_logos/Original-on-Transparent.png" alt="Logo" width="300" height="180">
   </a>
 
 <h3 align="center">Reproducible Reporting using Markdown</h3>
