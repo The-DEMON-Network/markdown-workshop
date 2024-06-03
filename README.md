@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="demon_logos/Original-on-Transparent.png" alt="Logo" width="300" height="180">
+    <img src="demon_logos/Original-on-Transparent.png" alt="Logo" width="300" height="170">
   </a>
 
 <h3 align="center">Reproducible Reporting using Markdown</h3>
@@ -68,7 +68,7 @@ When performing research, it is important to guarantee that all results can be i
 
 Clone the repo to download all materials
    ```sh
-   git clone https://github.com/ipdgc/GP2-pathway-enrichment-pipeline.git
+   git clone https://github.com/The-DEMON-Network/markdown-workshop.git
    ```
 or browse the materials via [Github Pages](https://demon-network.github.io/markdown-workshop/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -78,23 +78,9 @@ or browse the materials via [Github Pages](https://demon-network.github.io/markd
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-These notebooks can be directly uploaded to your workspace on Terra. They are designed to be used on Terra with AMP-PD data, but by changing the file paths you can use these notebooks anywhere other than Terra and for any data.
+You will find links to all of the material you need in the left hand menu of the Github Pages or in the folders in this repository. R users should use the material under R and likewise python users should use the material under python.
 
-
-### 1. First import PD GWAS summary statistics into Terra workspace
-
-Using import_GWAS_sumstats_Manuela.ipynb. Summary statistics (excluding 23andMe data) were downloaded from https://pdgenetics.org/resources and are publicly available.
-
-
-### 2. Format for FUMA 
-
-Using format_for_FUMA_Manuela.ipynb. This saves the GWAS summary statistics in FUMA format, then you can just upload this straight to FUMA. So far we can't find a way to link/embed FUMA within Terra.
-
-### 3. Run WebGestaltR in Terra
-
-Using run_WebGestaltR_Manuela.ipynb. For this we used the PD GWAS significant loci (p < 5 x 10<sup>-8</sup>) annotated with the nearest genes, available from https://www.nature.com/articles/ng.3043 (Supplementary Table 2).
-
-_For more examples, please refer to FUMA [documentation](https://fuma.ctglab.nl/tutorial) and WebGestaltR [documentation](https://cran.r-project.org/web/packages/WebGestaltR/index.html)_
+Under General you will find a markdown cheat sheet which might come in handy.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,17 +95,32 @@ Event organization
 * Ms. Janice Alcott
 
 Resource development
-*
+* Dr. Rob Arbon
+* Dr. Eyal Soreq
+* Dr. Cameron Shand
+* Ms. Meta Bönniger
+* Dr. Charlotte James
 
 Speakers
-*
+* Dr. Sarah Marzi
+* Professor Marcus Munafo
+* Mr. Brian Schilder
+* Professor Mark Kelson
 
 Facilitators
 R
-*
+* Dr. Sarah Marzi
+* Ms. Meta Bönniger
+* Mr. Brian Schilder
+* Professor Mark Kelson
+* Dr. Daniel Padfield
+* Mr. Mateus Harrington
 
 Python
-*
+* Dr. Charlotte James
+* Dr. Cameron Shand
+* Ms. Becki Green
+* Dr. Thomas Liebmann
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
