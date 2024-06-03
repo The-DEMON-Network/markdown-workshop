@@ -48,7 +48,7 @@ The goal for this workshop was to teach researchers how to report their research
 
 ### Background/motivation
 
-When performing research, it is important to guarantee that all results can be independently recreated and verified to build upon in future work. There are many tools that can be used to aid in the production of reproducible research, such as Markdown. Markdown is a useful tool for documenting and sharing your work. You can use a Markdown file to reproduce your work and export the results as a finished report.   
+When performing research, it is important to guarantee that all results can be independently recreated and verified to build upon in future work. There are many tools that can be used to aid in the production of reproducible research, including Markdown. Markdown is a useful tool for documenting and sharing your work. You can use a Markdown file to reproduce your work and export the results as a finished report.   
 
 ### Workflow Summary
 
